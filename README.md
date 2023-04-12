@@ -57,6 +57,10 @@ The `[Foldout("Runtime Debug")]` attribute that is utilized through the project 
 
 # Gameplay
 
+## Demo Link
+
+https://drive.google.com/file/d/195PF2jJuDt5IkVJY4X_lgedlmdmyGyqB/view?usp=sharing
+
 ### Player
 
 #### Controls
