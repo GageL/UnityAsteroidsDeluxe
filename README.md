@@ -71,6 +71,7 @@ https://drive.google.com/file/d/195PF2jJuDt5IkVJY4X_lgedlmdmyGyqB/view?usp=shari
 | S / Down Arrow | Holding this key will move the ship in a "backward" motion in relation to the rotation |
 | A / Left Arrow | Holding this key will rotate the ship in a "counter clockwise" motion |
 | D / Right Arrow | Holding this key will rotate the ship in a "clockwise" motion |
+| Space / Right Control | Pressing this key will shoot projectiles from the player ship |
 
 #### Lives
 
@@ -79,6 +80,10 @@ The player has a configurable amount of lives that are set at the start of each 
 #### Score
 
 When the player destroys an obstacle or enemy, they are granted points relative to a configurable amount on the destroyed object.
+
+#### Combat
+
+The player has the ability to fire projectiles from the *nose* of the ship. These configurable projectiles has a specific speed and lifetime associated with each *bullet*. When the projectile collides with an enemy/obstacle, the obstacle is destroyed and thus score points are gained.
 
 ### AI
 
