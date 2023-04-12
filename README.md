@@ -1,9 +1,8 @@
 <div align="center">
 
 ![readme splash](https://i.imgur.com/UP2Qe56.png)
+
 <br>
-<br>
-An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
 
 [**Installation**](#installation) &middot;
 [**Gameplay**](#gameplay) &middot;
@@ -11,6 +10,8 @@ An extremely light weight, extendable and customisable tweening engine made for 
 [**Customization**](#customization) &middot;
 [**TODO**](#todo) &middot;
 [**License**](./LICENSE.md)
+
+<br>
 
 > Source: This is a full Unity Project with associated packages, assets, settings and game logic.
 
@@ -66,7 +67,6 @@ The `[Foldout("Runtime Debug")]` attribute that is utilized through the project 
 | S / Down Arrow | Holding this key will move the ship in a "backward" motion in relation to the rotation |
 | A / Left Arrow | Holding this key will rotate the ship in a "counter clockwise" motion |
 | D / Right Arrow | Holding this key will rotate the ship in a "clockwise" motion |
-|
 
 #### Lives
 
