@@ -14,6 +14,8 @@
 <br>
 
 > Source: This is a full Unity Project with associated packages, assets, settings and game logic.
+  
+> Assets: This project utilizes packs for **concept** purposes from the [Kenney](https://kenney.nl/) packs, primarily the [Simple Space](https://kenney.nl/assets/simple-space) pack.
 
 > Licensing: Any and all licensed packages or assets included in this project and repository have either CC0 or MIT release.
 
